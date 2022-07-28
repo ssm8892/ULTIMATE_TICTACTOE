@@ -4,7 +4,7 @@ import java.math.*;
 //The main objective of the code is to implement an ultimate tictactoe game with three modes pvp pvc cvc where p stands for player and c stands for computer
 
 
-//In the main class the console prints instructions to pick between three modes
+//In the main class the console prints instructions to pick between three modes   
 //Then there's a function that implements the AI's moves which ensures the moves are within the range 0-8
 // and are random and that they dont use a square that's already filled
 //Then there's a function that implements user's moves which ensures the user doesnt cross the range and keeps
